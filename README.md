@@ -3,7 +3,7 @@
 
 Demo is available here - [Github pages](https://redhobe.github.io/vue-datepicker/).
 
-## Project setup
+<!-- ## Project setup
 ```
 Just download files from the 'dist' folder.
-```
+``` -->
